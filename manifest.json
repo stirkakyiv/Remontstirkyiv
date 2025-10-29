@@ -1,10 +1,10 @@
 {
-  "name": "Майстер Пральних",
-  "short_name": "МайстерПрал",
-  "start_url": ".",
+  "name": "Майстер Пральних — ремонт пральних машин у Києві",
+  "short_name": "МайстерПральних",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#0b0b0d",
-  "theme_color": "#1b1e21",
+  "background_color": "#0a1b2e",
+  "theme_color": "#0a1b2e",
   "icons": [
     {
       "src": "icons/icon-192.png",
